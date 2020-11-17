@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: techreview.aux
+The style file: abbrv.bst
+Database file #1: techreview.bib
+You've used 1 entry,
+            2118 wiz_defined-function locations,
+            505 strings with 4073 characters,
+and the built_in function-call counts, 642 in all, are:
+= -- 58
+> -- 43
+< -- 1
++ -- 16
+- -- 14
+* -- 51
+:= -- 108
+add.period$ -- 4
+call.type$ -- 1
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 1
+duplicate$ -- 23
+empty$ -- 41
+format.name$ -- 14
+if$ -- 136
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 8
+num.names$ -- 4
+pop$ -- 9
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 38
+swap$ -- 10
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 0
+while$ -- 6
+width$ -- 2
+write$ -- 15

@@ -1,4 +1,3 @@
-
 \documentclass{article}
 \usepackage{amsfonts}
 \usepackage[colorlinks=true,citecolor=blue,urlcolor=cyan,linkcolor=red]{hyperref}
@@ -20,17 +19,35 @@
 \DeclareMathOperator*{\cov}{cov}
 \newcommand{\bs}{\boldsymbol}
 
-\title{Auto-encoder for text classification \\
-		\Large{CS410 Tech Review}}
+\title{Variational Auto-Encoder for Text Representation Learning \\\Large{CS410 Tech Review}}
 \author{Jinning Li\\
 {\small University of Illinois at Urbana-Champaign}\\
 {\small jinning4@illinois.edu}}
 \begin{document}
 \maketitle
 
-\begin{abstract}
+\section{Introduction}
+The deep neural networks have inspired a large progress on the text related tasks. There are many interesting computational textual tasks such as text classification, text translation, and text generation. During most of these tasks, one important question is how to extract the vector representation from a piece of text so that the text will become easier to be processed. The text representation learning is to map the text to a vector space with a relatively low dimension. During this process, the property of the text should be kept. For example, the similarity between two pieces of text can be calculated by the cosine distance between two vectors in this vector space.
 
-\end{abstract}
+Variational Autoencoder (VAE) is a popular approach for generative model, which leans the underlying complex distribution of a known dataset. 
+
+\section{Variational Auto-Encoder}
+
+% \begin{figure*}[ht]
+% %   	\vspace{-mm}
+%   \centering
+%   \includegraphics[width = 0.95\linewidth]{images/flowchart2.pdf}
+%   %	\vspace{-9mm}
+%   \caption{caption}
+%   \label{fig::fig}
+%   % \vspace{-8pt}
+% \end{figure*}
+
+\section{Text Representation Learning}
+
+\section{Variational Auto-Encoder for Text Representation Learning}
+Citation A ~\cite{10.1007/978-3-030-60029-7_21}
+
 
 
 \bibliographystyle{abbrv}
